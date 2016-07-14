@@ -1,0 +1,22 @@
+{
+  "dependencies":
+  {
+    "react": "*",
+    "webpack": "*",
+    "babel-loader": "*",
+    "file-loader": "*",
+    "react-hot-loader": "*",
+    "extract-text-webpack-plugin": "*",
+  	"css-loader": "*",
+  	"style-loader": "*",
+  	"jsx-loader": "*",
+  	"static-site-generator-webpack-plugin": "*"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline "
+  },
+  "devDependencies": {
+    "image-webpack-loader": "^1.6.1",
+    "imagemin": "^3.2.0"
+  }
+}
