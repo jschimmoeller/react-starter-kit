@@ -23,3 +23,5 @@ Open in atom and start editing files. Start with src/app.js
 ```javascript
 atom .
 ```
+
+WTF
