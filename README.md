@@ -28,7 +28,7 @@ atom .
 Step 4
 ------
 
-Run it and open browser to [localhost](http://localhost:8080)
+Run it and open browser to [http://localhost:8080](http://localhost:8080)
 
 ```javascript
 npm start
