@@ -24,3 +24,12 @@ Open in atom and start editing files. Start with src/app.js
 ```javascript
 atom .
 ```
+
+Step 4
+------
+
+Run it and open browser to http://localhost:8080
+
+```javascript
+npm start
+```
